@@ -17,13 +17,13 @@
                 <key>metadata</key>
                 <dict>
                     <key>bundle-identifier</key>
-                    <string>com.mall.tt</string>
+                    <string>com.mall.5080</string>
                     <key>bundle-version</key>
-                    <string>1.0</string>
+                    <string>1.0.3</string>
                     <key>kind</key>
                     <string>software</string>
                     <key>title</key>
-                    <string>XXNote</string>
+                    <string>test5080</string>
                 </dict>
             </dict>
         </array>
