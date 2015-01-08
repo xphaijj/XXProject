@@ -19,11 +19,11 @@
                     <key>bundle-identifier</key>
                     <string>org.skxt.qdiweike</string>
                     <key>bundle-version</key>
-                    <string>1.0.6</string>
+                    <string>1.0.8</string>
                     <key>kind</key>
                     <string>software</string>
                     <key>title</key>
-                    <string>我要录微课(QD)</string>
+                    <string>微课青岛版</string>
                 </dict>
             </dict>
         </array>
