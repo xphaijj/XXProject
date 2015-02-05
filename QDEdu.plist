@@ -33,9 +33,9 @@
                 <key>metadata</key>
                 <dict>
                     <key>bundle-identifier</key>
-                    <string>org.skxt.qdiweike8</string>
+                    <string>org.skxt.qdiweike</string>
                     <key>bundle-version</key>
-                    <string>1.0.8</string>
+                    <string>1.0.16</string>
                     <key>kind</key>
                     <string>software</string>
                     <key>title</key>
