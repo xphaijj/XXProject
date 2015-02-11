@@ -17,9 +17,9 @@
                 <key>metadata</key>
                 <dict>
                     <key>bundle-identifier</key>
-                    <string>org.skxt.wetube0</string>
+                    <string>org.skxt.wetube8</string>
                     <key>bundle-version</key>
-                    <string>1.0.6</string>
+                    <string>1.0.7</string>
                     <key>kind</key>
                     <string>software</string>
                     <key>title</key>
